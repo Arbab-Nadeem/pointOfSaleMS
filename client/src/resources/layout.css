@@ -1,0 +1,137 @@
+:root {
+	/* Colors: */
+	/* active green: #14A800 */
+	/* text:dark greenish blue #1D4354 */
+	/* Black: #001E00 */
+	/* light grey: #FAFAFA */
+	/* Orange: #F36C21 */
+}
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+button {
+	background-color: #14a800 !important;
+	color: #fff !important;
+	box-shadow: none !important;
+	border: none !important;
+	outline: none !important;
+}
+
+.ant-modal-close-x {
+	background-color: #fff !important;
+	color: #102f3d !important;
+}
+
+.ant-pagination-item-link {
+	background-color: #fff !important;
+	color: #102f3d !important;
+}
+
+.ant-pagination-item-active {
+	border-color: #e7e7e7 !important;
+}
+#components-layout-demo-custom-trigger .trigger {
+	padding: 0 24px;
+	font-size: 18px;
+	line-height: 64px;
+	cursor: pointer;
+	transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+	color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+	height: 32px;
+	margin: 16px;
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+	background: #fff;
+	box-shadow: 0 0 3px #ccc !important;
+	border-radius: 3pxe;
+}
+
+.ant-layout-has-sider {
+	/* padding: 15px; */
+	height: 100%;
+	overflow: hidden;
+}
+.ant-layout-header {
+	margin: 0 10px;
+	border-radius: 3px !important;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.ant-layout-sider-children {
+	padding: 15px 0 !important;
+	background-color: #102f3d !important;
+}
+
+.ant-layout-content {
+	height: 89vh;
+	overflow-y: scroll !important;
+}
+.ant-menu-item-selected {
+	background-color: #14a800 !important;
+}
+.ant-menu.ant-menu-dark {
+	background-color: #102f3d !important;
+}
+
+.anticon svg {
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+}
+
+.logo h2 {
+	text-align: center;
+	font-weight: 700;
+	font-size: 22px;
+	color: #fff;
+	padding-bottom: 30px;
+}
+.first-part {
+	color: #f36c21;
+}
+.last-part {
+	color: #14a800;
+}
+
+.cart-count {
+	cursor: pointer;
+}
+.cart-count .cart-number {
+	font-weight: 400;
+	font-size: 0.7rem;
+	line-height: 1;
+	background-color: #14a800;
+	color: #fff;
+	padding: 3px 5px;
+	border-radius: 100%;
+}
+
+.spinner {
+	z-index: 10;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.spinner-grow {
+	background-color: #14a800aa !important;
+	height: 80px;
+	width: 80px;
+}

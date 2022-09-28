@@ -1,0 +1,17 @@
+.authentication {
+	display: flex !important;
+	align-items: center !important;
+	height: 100vh !important;
+	background-image: url(./auth.svg);
+	background-size: 100% 100% !important;
+}
+.authentication .ant-row {
+	width: 100% !important;
+	justify-content: center !important;
+}
+
+.authentication form {
+	background-color: #fff !important;
+	padding: 20px;
+	border-radius: 4px !important;
+}

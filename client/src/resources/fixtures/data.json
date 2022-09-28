@@ -1,0 +1,99 @@
+[
+	{
+		"item": "shampoo",
+		"quantity": "3",
+		"category": "Personal Care",
+		"price": "300"
+	},
+	{
+		"item": "soap",
+		"quantity": "10",
+		"category": "Personal Care",
+		"price": "60"
+	},
+	{
+		"item": "toothpaste",
+		"quantity": "2",
+		"category": "Personal Care",
+		"price": "165"
+	},
+	{
+		"item": "shaving cream",
+		"quantity": "1",
+		"category": "Personal Care",
+		"price": "200"
+	},
+	{
+		"item": "dental floss",
+		"quantity": "1",
+		"category": "Personal Care",
+		"price": "90"
+	},
+	{
+		"item": "sugar",
+		"quantity": "5",
+		"category": "Condiments & Spices",
+		"price": "150"
+	},
+	{
+		"item": "salt",
+		"quantity": "2",
+		"category": "Condiments & Spices",
+		"price": "40"
+	},
+	{
+		"item": "ketchup",
+		"quantity": "4",
+		"category": "Condiments & Spices",
+		"price": "200"
+	},
+	{
+		"item": "pepper",
+		"quantity": "3",
+		"category": "Condiments & Spices",
+		"price": "180"
+	},
+	{
+		"item": "flour",
+		"quantity": "2",
+		"category": "Baking",
+		"price": "1100"
+	},
+	{
+		"item": "eggs",
+		"quantity": "12",
+		"category": "Baking",
+		"price": "250"
+	},
+	{
+		"item": "butter",
+		"quantity": "4",
+		"category": "Baking",
+		"price": "120"
+	},
+	{
+		"item": "baking powder",
+		"quantity": "7",
+		"category": "Baking",
+		"price": "140"
+	},
+	{
+		"item": "sausage",
+		"quantity": "5",
+		"category": "Meat",
+		"price": "300"
+	},
+	{
+		"item": "beef",
+		"quantity": "1",
+		"category": "Meat",
+		"price": "1200"
+	},
+
+	{
+		"item": "chicken",
+		"quantity": "1",
+		"category": "Meat",
+		"price": "550"
+	}
+]
